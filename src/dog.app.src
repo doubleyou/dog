@@ -1,0 +1,12 @@
+{application, dog,
+ [
+  {description, ""},
+  {vsn, "1"},
+  {registered, []},
+  {applications, [
+                  kernel,
+                  stdlib
+                 ]},
+  {mod, { dog_app, []}},
+  {env, []}
+ ]}.
