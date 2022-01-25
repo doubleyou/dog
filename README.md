@@ -1,4 +1,0 @@
-dog
-===
-
-DNS over GIT
